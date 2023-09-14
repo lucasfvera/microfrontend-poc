@@ -1,0 +1,8 @@
+/*
+This class was also defined in the Container app intentionally to show possible
+conflicts with CSS files. 
+*/
+.card {
+	background-color: rgb(215, 215, 253);
+	border-radius: 0.5rem;
+  }
