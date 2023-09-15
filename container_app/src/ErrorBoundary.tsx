@@ -12,7 +12,6 @@ class ErrorBoundary extends React.Component {
 	}
 
 	componentDidCatch(error, info) {
-		console.log('Catched error', error, info);
 		// Example "componentStack":
 		//   in ComponentThatThrows (created by App)
 		//   in ErrorBoundary (created by App)
