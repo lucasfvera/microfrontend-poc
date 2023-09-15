@@ -24,3 +24,18 @@ It has 3 independent applications:
 ## Tech Stack
 Each client was built with `Vite` + `React`. It also uses `react-router-dom` 
 as a router to navigate across the subpages.
+
+## How To Run It
+- Install each app by running:
+  ```
+  yarn install
+  ```
+
+
+- Run each app independently:
+	```
+	yarn dev
+	```
+
+You can stop the Home or About app and check that it stills works.\
+__The container_app should always be running__
